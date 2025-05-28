@@ -17,7 +17,7 @@ mechanical interconnections between the conventional pitch control and direct-li
 benefits of direct-lift control include improved precision in landing large aircraft, more effective control
 of gust effects, and reduced possibility of stalling.
 
-[Direct Lift Control: A review of its principles, merits, current and future implementations](Papers/Direct Lift Control%20-%20A%20review%20of%20its%20principles%20merits%20current%20and%20future%20implementations.pdf)
+[Direct Lift Control: A review of its principles, merits, current and future implementations](Papers/Direct%20Lift%20Control%20-%20A%20review%20of%20its%20principles%20merits%20current%20and%20future%20implementations.pdf)
 
 Direct Lift Control (DLC) is the capability to directly and intentionally influence lift on a fixed-wing aircraft
 by means of aerodynamic control devices, with minimum change of its angle of attack. Although several
