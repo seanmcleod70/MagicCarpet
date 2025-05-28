@@ -1,6 +1,9 @@
 # Magic Carpet - Flight Control Laws using Direct Lift
 
-Implementation using JSBSim.
+The F/A-18E/F/G aircraft and the F-35 have specific flight control laws for carrier approach and landing which
+makes use of direct lift to make the approach and landing task easier for the pilot. 
+
+The aim of this repo is to implement the equivalent flight control laws in a JSBSim model.
 
 ## Papers
 
@@ -14,6 +17,20 @@ mechanical interconnections between the conventional pitch control and direct-li
 benefits of direct-lift control include improved precision in landing large aircraft, more effective control
 of gust effects, and reduced possibility of stalling.
 
+[Direct Lift Control: A review of its principles, merits, current and future implementations](Papers/Direct Lift Control%20-%20A%20review%20of%20its%20principles%20merits%20current%20and%20future%20implementations.pdf)
+
+Direct Lift Control (DLC) is the capability to directly and intentionally influence lift on a fixed-wing aircraft
+by means of aerodynamic control devices, with minimum change of its angle of attack. Although several
+definitions exist, with various degrees of ambiguity, the combination of DLC and pitch attitude control has
+unambiguously proven to reduce pilot workload and improve flying comfort considerably. DLC has historically
+seen several applications on so-called inflight simulators and, recently, this capability has been rolled out over
+several aircraft types of the US Navy fleet, massively reducing pilot workload during carrier landings. On the
+civil front, only one aircraft type has been equipped with this capability, despite its very positive reception
+by flight crews and passengers. The intention of this paper is to revive interest in civil DLC applications, by
+reviewing in-depth its basic principles, characteristic features, benefits, and implementations so far. Several
+modern aircraft and disruptive wing configurations appear to be inherently capable of accommodating DLC
+functionality from a flight physical, systems, and software point of view. The proven benefits of DLC are likely
+to well outweigh the cost of the added functionality.
 
 [Project MAGIC CARPET: Advanced Controls and Displays for Precision Carrier Landings](Papers/Project%20Magic%20Carpet%20-%20Advanced%20Controls%20and%20Displays%20for%20Precision%20Carrier%20Landings.pdf)
 
